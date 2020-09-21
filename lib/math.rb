@@ -1,3 +1,6 @@
+num1 = 2 
+num2 = 2
+
 def addition(num1, num2)
 
 end
